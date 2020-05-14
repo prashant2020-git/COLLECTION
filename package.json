@@ -1,0 +1,14 @@
+{
+  "name": "collection",
+  "version": "1.0.0",
+  "description": "",
+
+  "scripts": {
+    "api-tests": "newman run APIDemo.json"
+  },
+  "author": "",
+
+  "dependencies": {
+    "newman": "^5.0.0"
+  }
+}
